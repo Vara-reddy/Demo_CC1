@@ -1,2 +1,2 @@
 # Demo_CC1
-This is a Demo Repo
+Vara has created a Repo called Demo_CC1 and added the branch called "Main"
