@@ -5,7 +5,8 @@ CLASS zcl_t1 DEFINITION
 
   PUBLIC SECTION.
 
-  methods: T1_Method1.
+  methods: T1_Method1,
+           T2_Method2.
 
     INTERFACES if_oo_adt_classrun .
   PROTECTED SECTION.
